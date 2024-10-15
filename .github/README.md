@@ -36,3 +36,6 @@ Esta pipeline `Deploy to Vercel` es la encargada de desplegar el código del rep
 ## Ejecución
 
 La ejecución de la pipeline de `Deploy to Vercel` de CI se realiza automáticamente cada vez que se realiza una `Push` o `Merge` a la rama `main`. Si se detecta un error en la despliegue, se creará un issue para que se puedan revisar y solucionar los problemas.
+
+-Captura de Landing: 
+![Captura de pantalla (1991)](https://github.com/user-attachments/assets/804a06dc-e147-4ed3-b1f4-5636e837fc40)
